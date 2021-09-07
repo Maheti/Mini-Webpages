@@ -1,0 +1,101 @@
+div {
+    border: 1px solid darkslategrey;
+}
+.col-md-12 {
+    background: linear-gradient(yellowgreen,darkslategray);
+    height: 120px;
+}
+.col-md-12 h1{
+   margin-top: 20px;
+    color: white;
+    text-shadow: white;
+    font-family: "Footlight MT Light";
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.col-md-12 h5{
+    margin-top: 40px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
+
+.col-md-4 h2{
+    margin-top: 25px;
+    font-size: 42px;
+    color: black;
+    font-family:"Maiandra GD";
+    font-weight: bolder;
+}
+.col-md-4{
+    background:linear-gradient(darkslategray,lightgray);
+
+}
+.col-md-4 p{
+    margin-top: 20px;
+    font-size: 18px ;
+    color: black;
+    font-family: "Comic Sans MS";
+    font-weight: bolder;
+}
+
+.col-md{
+    background:linear-gradient(darkslategray,yellowgreen);
+}
+.col-md img{
+    margin-left: -15px;
+
+}
+.col-md-6{
+    background: linear-gradient(darkslategray,darkgreen);
+}
+.col-md-6 h2{
+    color: white;
+    font-family:"Footlight MT Light";
+    font-size: 40px ;
+
+}
+.col-md-6 img{
+    margin-left: -14px;
+}
+.col-md-6 p{
+    color: white;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px ;
+    font-family: Mangal;
+}
+.col-md-8{
+    background-color: black;
+}
+.col-md-8 img{
+    margin-left: -14px;
+}
+.col-md-5{
+  background:linear-gradient(darkslategray,yellowgreen) ;
+}
+.col-md-5 h2{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 28px;
+    font-size: 32px;
+    color: yellow;
+    font-style: italic;
+    font-family:"Maiandra GD";
+    font-weight: bolder;
+
+}
+.col-md-5 p{
+    margin-top: 25px;
+    font-size: 18px ;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Comic Sans MS";
+    font-weight: bolder;
+    margin-bottom: 20px;
+
+}
